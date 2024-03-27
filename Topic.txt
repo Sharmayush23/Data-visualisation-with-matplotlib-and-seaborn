@@ -1,0 +1,23 @@
+Introduction to Seaborn
+Seaborn vs Matplotlib
+Import Libraries
+Line Charts
+Scatterplots
+Rel Plot
+Bar Plot
+Cat Plot
+Dist Plot
+KDE Plot
+Swarm Plot
+Violin Plot
+Strip Plot
+Box Plot
+Boxen Plot
+Pair Plot
+Pair Grid
+Regression Plot
+Point Plot
+Facet Grid
+Joint Plot
+Joint Grid
+Heat Map
